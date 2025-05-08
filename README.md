@@ -1,0 +1,2 @@
+# sikkoku_fighting_keyboard
+格闘ゲーム向けのキーボード型コントローラー
