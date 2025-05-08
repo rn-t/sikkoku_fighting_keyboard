@@ -1,0 +1,3 @@
+[submodule "PCB/Library/BrownSugar_KBD_KiCad_Library"]
+	path = PCB/Library/BrownSugar_KBD_KiCad_Library
+	url = git@github.com:koktoh/BrownSugar_KBD_KiCad_Library.git
