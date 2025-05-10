@@ -1592,136 +1592,128 @@
 		)
 	)
 	(junction
-		(at 35.56 88.9)
+		(at 29.21 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "47400e00-b676-42cb-b6c1-5be19c38867b")
 	)
 	(junction
-		(at 127 125.73)
+		(at 120.65 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4787f7a0-1dad-4d97-a107-df2296953566")
 	)
 	(junction
-		(at 140.97 125.73)
+		(at 134.62 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6c49bc4c-105a-452d-96fc-0d09983dfd8a")
 	)
 	(junction
-		(at 63.5 88.9)
+		(at 57.15 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9531a2f8-5d63-45ca-a962-608ade69a2ae")
 	)
 	(junction
-		(at 77.47 88.9)
+		(at 71.12 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9734ffd5-65e4-491d-8c90-d8eaeab88e68")
 	)
 	(junction
-		(at 49.53 88.9)
+		(at 43.18 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a8989544-ead1-4c6b-9f18-be1266c30d3e")
 	)
 	(junction
-		(at 127 88.9)
+		(at 120.65 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b0044402-e8e6-46ca-af5d-8eb3bdd6633c")
 	)
 	(junction
-		(at 154.94 125.73)
+		(at 148.59 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b0e5c948-3a1b-4a59-bfa6-621c1c877f59")
 	)
 	(junction
-		(at 154.94 88.9)
+		(at 148.59 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bcdbb3e6-ef7c-49cf-9f29-c63c4894183b")
 	)
 	(junction
-		(at 140.97 88.9)
+		(at 134.62 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fd13caeb-cf2b-4387-9e67-4c5d2ad29520")
 	)
 	(no_connect
-		(at 232.41 25.4)
+		(at 226.06 25.4)
 		(uuid "018678ea-d994-42ee-84e7-56f2d4188745")
 	)
 	(no_connect
-		(at 260.35 66.04)
+		(at 254 66.04)
 		(uuid "04b22de6-c82c-472c-afb0-a3857debf5a7")
 	)
 	(no_connect
-		(at 260.35 58.42)
+		(at 254 58.42)
 		(uuid "09a4680b-ed8c-421f-83fc-091c45d4af3a")
 	)
 	(no_connect
-		(at 260.35 81.28)
+		(at 254 81.28)
 		(uuid "0c1c8154-2834-4099-aa85-b93444acad56")
 	)
 	(no_connect
-		(at 260.35 55.88)
+		(at 254 55.88)
 		(uuid "1e628c64-d0bc-4ed1-9a61-b98051b00f42")
 	)
 	(no_connect
-		(at 214.63 50.8)
+		(at 208.28 50.8)
 		(uuid "2f11f1dd-eba8-4251-a37c-9148818c0b6e")
 	)
 	(no_connect
-		(at 260.35 60.96)
+		(at 254 60.96)
 		(uuid "52491ef2-219c-4bfe-beb1-f7fdb7500826")
 	)
 	(no_connect
-		(at 237.49 25.4)
+		(at 231.14 25.4)
 		(uuid "57ede5cb-f472-4d51-8581-1d888a26eb68")
 	)
 	(no_connect
-		(at 214.63 43.18)
+		(at 208.28 43.18)
 		(uuid "8f65362c-3eef-4b68-af83-cb0240ee2a36")
 	)
 	(no_connect
-		(at 260.35 50.8)
-		(uuid "b08e384c-3ae9-43f4-a2c2-5e7be4a980d4")
-	)
-	(no_connect
-		(at 260.35 53.34)
-		(uuid "c2f6d122-5aec-4dd2-a0de-2f2e4d0c1c93")
-	)
-	(no_connect
-		(at 214.63 48.26)
+		(at 208.28 48.26)
 		(uuid "c4722bcc-85bd-450a-b755-f695817b9f60")
 	)
 	(no_connect
-		(at 260.35 71.12)
+		(at 254 71.12)
 		(uuid "c5a9089c-0c6e-4739-9afe-a26015aa97c7")
 	)
 	(no_connect
-		(at 260.35 76.2)
+		(at 254 76.2)
 		(uuid "d303bdd1-67c2-4b65-8a21-61eebf9e07c4")
 	)
 	(no_connect
-		(at 260.35 86.36)
+		(at 254 86.36)
 		(uuid "da5a9810-8d7b-4dd0-9252-9bc08d73e49c")
 	)
 	(no_connect
-		(at 260.35 63.5)
+		(at 254 63.5)
 		(uuid "f08ee2ce-c688-4a3d-9095-3ecc361759ee")
 	)
 	(no_connect
-		(at 260.35 78.74)
+		(at 254 78.74)
 		(uuid "f9b52c0c-3b1b-4146-8648-849fe1732afa")
 	)
 	(wire
 		(pts
-			(xy 140.97 88.9) (xy 154.94 88.9)
+			(xy 134.62 88.9) (xy 148.59 88.9)
 		)
 		(stroke
 			(width 0)
@@ -1731,7 +1723,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 73.66) (xy 63.5 58.42)
+			(xy 57.15 73.66) (xy 57.15 58.42)
 		)
 		(stroke
 			(width 0)
@@ -1741,7 +1733,7 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 40.64) (xy 191.77 43.18)
+			(xy 185.42 40.64) (xy 185.42 43.18)
 		)
 		(stroke
 			(width 0)
@@ -1751,7 +1743,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 105.41) (xy 189.23 83.82)
+			(xy 182.88 105.41) (xy 182.88 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1761,7 +1753,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 73.66) (xy 49.53 55.88)
+			(xy 43.18 73.66) (xy 43.18 55.88)
 		)
 		(stroke
 			(width 0)
@@ -1771,7 +1763,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 55.88) (xy 214.63 55.88)
+			(xy 43.18 55.88) (xy 208.28 55.88)
 		)
 		(stroke
 			(width 0)
@@ -1781,7 +1773,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 133.35) (xy 127 137.16)
+			(xy 120.65 133.35) (xy 120.65 137.16)
 		)
 		(stroke
 			(width 0)
@@ -1791,7 +1783,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 73.66) (xy 77.47 60.96)
+			(xy 71.12 73.66) (xy 71.12 60.96)
 		)
 		(stroke
 			(width 0)
@@ -1801,7 +1793,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 71.12) (xy 154.94 73.66)
+			(xy 148.59 71.12) (xy 148.59 73.66)
 		)
 		(stroke
 			(width 0)
@@ -1811,7 +1803,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 110.49) (xy 140.97 100.33)
+			(xy 134.62 110.49) (xy 134.62 100.33)
 		)
 		(stroke
 			(width 0)
@@ -1821,7 +1813,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 60.96) (xy 214.63 60.96)
+			(xy 71.12 60.96) (xy 208.28 60.96)
 		)
 		(stroke
 			(width 0)
@@ -1831,7 +1823,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 66.04) (xy 127 66.04)
+			(xy 208.28 66.04) (xy 120.65 66.04)
 		)
 		(stroke
 			(width 0)
@@ -1841,7 +1833,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 76.2) (xy 181.61 97.79)
+			(xy 175.26 76.2) (xy 175.26 97.79)
 		)
 		(stroke
 			(width 0)
@@ -1851,7 +1843,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 71.12) (xy 154.94 71.12)
+			(xy 208.28 71.12) (xy 148.59 71.12)
 		)
 		(stroke
 			(width 0)
@@ -1861,7 +1853,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 83.82) (xy 214.63 83.82)
+			(xy 182.88 83.82) (xy 208.28 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1871,7 +1863,7 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 29.21) (xy 191.77 35.56)
+			(xy 185.42 29.21) (xy 185.42 35.56)
 		)
 		(stroke
 			(width 0)
@@ -1881,7 +1873,17 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 88.9) (xy 91.44 88.9)
+			(xy 273.05 50.8) (xy 273.05 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d7fb618-6546-4309-91b8-7578d6588aaa")
+	)
+	(wire
+		(pts
+			(xy 71.12 88.9) (xy 85.09 88.9)
 		)
 		(stroke
 			(width 0)
@@ -1891,7 +1893,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 29.21) (xy 189.23 35.56)
+			(xy 182.88 29.21) (xy 182.88 35.56)
 		)
 		(stroke
 			(width 0)
@@ -1901,7 +1903,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 43.18) (xy 181.61 30.48)
+			(xy 175.26 43.18) (xy 175.26 30.48)
 		)
 		(stroke
 			(width 0)
@@ -1911,7 +1913,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 63.5) (xy 214.63 63.5)
+			(xy 85.09 63.5) (xy 208.28 63.5)
 		)
 		(stroke
 			(width 0)
@@ -1921,7 +1923,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 88.9) (xy 77.47 88.9)
+			(xy 57.15 88.9) (xy 71.12 88.9)
 		)
 		(stroke
 			(width 0)
@@ -1931,7 +1933,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 99.06) (xy 237.49 105.41)
+			(xy 231.14 99.06) (xy 231.14 105.41)
 		)
 		(stroke
 			(width 0)
@@ -1941,7 +1943,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 66.04) (xy 127 73.66)
+			(xy 120.65 66.04) (xy 120.65 73.66)
 		)
 		(stroke
 			(width 0)
@@ -1951,7 +1953,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 88.9) (xy 63.5 88.9)
+			(xy 43.18 88.9) (xy 57.15 88.9)
 		)
 		(stroke
 			(width 0)
@@ -1961,7 +1963,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 33.02) (xy 186.69 29.21)
+			(xy 180.34 33.02) (xy 180.34 29.21)
 		)
 		(stroke
 			(width 0)
@@ -1971,7 +1973,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 68.58) (xy 140.97 68.58)
+			(xy 208.28 68.58) (xy 134.62 68.58)
 		)
 		(stroke
 			(width 0)
@@ -1981,7 +1983,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 125.73) (xy 154.94 125.73)
+			(xy 134.62 125.73) (xy 148.59 125.73)
 		)
 		(stroke
 			(width 0)
@@ -1991,7 +1993,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 86.36) (xy 195.58 86.36)
+			(xy 208.28 86.36) (xy 189.23 86.36)
 		)
 		(stroke
 			(width 0)
@@ -2001,7 +2003,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 102.87) (xy 186.69 102.87)
+			(xy 148.59 102.87) (xy 180.34 102.87)
 		)
 		(stroke
 			(width 0)
@@ -2011,7 +2013,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 133.35) (xy 127 133.35)
+			(xy 189.23 133.35) (xy 120.65 133.35)
 		)
 		(stroke
 			(width 0)
@@ -2021,7 +2023,7 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 35.56) (xy 214.63 35.56)
+			(xy 185.42 35.56) (xy 208.28 35.56)
 		)
 		(stroke
 			(width 0)
@@ -2031,7 +2033,7 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 43.18) (xy 181.61 43.18)
+			(xy 185.42 43.18) (xy 175.26 43.18)
 		)
 		(stroke
 			(width 0)
@@ -2041,7 +2043,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 88.9) (xy 140.97 88.9)
+			(xy 120.65 88.9) (xy 134.62 88.9)
 		)
 		(stroke
 			(width 0)
@@ -2051,7 +2053,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 78.74) (xy 214.63 78.74)
+			(xy 177.8 78.74) (xy 208.28 78.74)
 		)
 		(stroke
 			(width 0)
@@ -2061,7 +2063,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 102.87) (xy 186.69 81.28)
+			(xy 180.34 102.87) (xy 180.34 81.28)
 		)
 		(stroke
 			(width 0)
@@ -2071,7 +2073,7 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 40.64) (xy 214.63 40.64)
+			(xy 185.42 40.64) (xy 208.28 40.64)
 		)
 		(stroke
 			(width 0)
@@ -2081,7 +2083,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 110.49) (xy 168.91 105.41)
+			(xy 162.56 110.49) (xy 162.56 105.41)
 		)
 		(stroke
 			(width 0)
@@ -2091,7 +2093,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 125.73) (xy 140.97 125.73)
+			(xy 120.65 125.73) (xy 134.62 125.73)
 		)
 		(stroke
 			(width 0)
@@ -2101,7 +2103,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 76.2) (xy 181.61 76.2)
+			(xy 208.28 76.2) (xy 175.26 76.2)
 		)
 		(stroke
 			(width 0)
@@ -2111,7 +2113,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 88.9) (xy 49.53 88.9)
+			(xy 29.21 88.9) (xy 43.18 88.9)
 		)
 		(stroke
 			(width 0)
@@ -2121,7 +2123,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 53.34) (xy 214.63 53.34)
+			(xy 29.21 53.34) (xy 208.28 53.34)
 		)
 		(stroke
 			(width 0)
@@ -2131,7 +2133,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 73.66) (xy 91.44 63.5)
+			(xy 85.09 73.66) (xy 85.09 63.5)
 		)
 		(stroke
 			(width 0)
@@ -2141,7 +2143,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 110.49) (xy 154.94 102.87)
+			(xy 148.59 110.49) (xy 148.59 102.87)
 		)
 		(stroke
 			(width 0)
@@ -2151,7 +2153,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 73.66) (xy 168.91 73.66)
+			(xy 208.28 73.66) (xy 162.56 73.66)
 		)
 		(stroke
 			(width 0)
@@ -2161,7 +2163,17 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 100.33) (xy 184.15 100.33)
+			(xy 254 50.8) (xy 273.05 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cce53c66-c2bc-4c83-9d8e-b000e0110f12")
+	)
+	(wire
+		(pts
+			(xy 134.62 100.33) (xy 177.8 100.33)
 		)
 		(stroke
 			(width 0)
@@ -2171,7 +2183,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 88.9) (xy 168.91 88.9)
+			(xy 148.59 88.9) (xy 162.56 88.9)
 		)
 		(stroke
 			(width 0)
@@ -2181,7 +2193,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 73.66) (xy 35.56 53.34)
+			(xy 29.21 73.66) (xy 29.21 53.34)
 		)
 		(stroke
 			(width 0)
@@ -2191,7 +2203,17 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 86.36) (xy 195.58 133.35)
+			(xy 254 53.34) (xy 259.08 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ddd97c9e-1698-49de-8d2c-7550032cc5f3")
+	)
+	(wire
+		(pts
+			(xy 189.23 86.36) (xy 189.23 133.35)
 		)
 		(stroke
 			(width 0)
@@ -2201,7 +2223,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 30.48) (xy 168.91 30.48)
+			(xy 175.26 30.48) (xy 162.56 30.48)
 		)
 		(stroke
 			(width 0)
@@ -2211,7 +2233,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 97.79) (xy 127 110.49)
+			(xy 120.65 97.79) (xy 120.65 110.49)
 		)
 		(stroke
 			(width 0)
@@ -2221,7 +2243,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 97.79) (xy 127 97.79)
+			(xy 175.26 97.79) (xy 120.65 97.79)
 		)
 		(stroke
 			(width 0)
@@ -2231,7 +2253,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 105.41) (xy 189.23 105.41)
+			(xy 162.56 105.41) (xy 182.88 105.41)
 		)
 		(stroke
 			(width 0)
@@ -2241,7 +2263,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 58.42) (xy 214.63 58.42)
+			(xy 57.15 58.42) (xy 208.28 58.42)
 		)
 		(stroke
 			(width 0)
@@ -2251,7 +2273,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 68.58) (xy 140.97 73.66)
+			(xy 134.62 68.58) (xy 134.62 73.66)
 		)
 		(stroke
 			(width 0)
@@ -2261,7 +2283,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 33.02) (xy 186.69 33.02)
+			(xy 208.28 33.02) (xy 180.34 33.02)
 		)
 		(stroke
 			(width 0)
@@ -2271,7 +2293,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 81.28) (xy 214.63 81.28)
+			(xy 180.34 81.28) (xy 208.28 81.28)
 		)
 		(stroke
 			(width 0)
@@ -2281,7 +2303,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 100.33) (xy 184.15 78.74)
+			(xy 177.8 100.33) (xy 177.8 78.74)
 		)
 		(stroke
 			(width 0)
@@ -2291,7 +2313,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 125.73) (xy 168.91 125.73)
+			(xy 148.59 125.73) (xy 162.56 125.73)
 		)
 		(stroke
 			(width 0)
@@ -2301,7 +2323,7 @@
 	)
 	(symbol
 		(lib_id "MCU_Module:RaspberryPi_Pico_Debug")
-		(at 237.49 63.5 0)
+		(at 231.14 63.5 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2310,7 +2332,7 @@
 		(fields_autoplaced yes)
 		(uuid "0928946b-8a78-4eb7-85ba-649ff6eb6913")
 		(property "Reference" "A1"
-			(at 239.6333 97.79 0)
+			(at 233.2833 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2319,7 +2341,7 @@
 			)
 		)
 		(property "Value" "RaspberryPi_Pico"
-			(at 239.6333 100.33 0)
+			(at 233.2833 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2328,7 +2350,7 @@
 			)
 		)
 		(property "Footprint" "Module:RaspberryPi_Pico_SMD_HandSolder"
-			(at 237.49 110.49 0)
+			(at 231.14 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2337,7 +2359,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf"
-			(at 237.49 113.03 0)
+			(at 231.14 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2346,7 +2368,7 @@
 			)
 		)
 		(property "Description" "Versatile and inexpensive microcontroller module (with debug pins) powered by RP2040 dual-core Arm Cortex-M0+ processor up to 133 MHz, 264kB SRAM, 2MB QSPI flash; also supports Raspberry Pi Pico 2"
-			(at 237.49 115.57 0)
+			(at 231.14 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2494,7 +2516,7 @@
 	)
 	(symbol
 		(lib_id "BrownSugar_KBD:SW_PUSH")
-		(at 168.91 81.28 90)
+		(at 162.56 81.28 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2503,7 +2525,7 @@
 		(fields_autoplaced yes)
 		(uuid "15833a5f-23ec-43c6-8012-70e955b83cf0")
 		(property "Reference" "SW9"
-			(at 170.18 80.0099 90)
+			(at 163.83 80.0099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2512,7 +2534,7 @@
 			)
 		)
 		(property "Value" "SW_PUSH"
-			(at 170.18 82.5499 90)
+			(at 163.83 82.5499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2520,16 +2542,17 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 168.91 81.28 0)
+		(property "Footprint" "BrownSugar_KBD:Kailh_Choc_V1_Hotswap_via"
+			(at 162.56 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
-			(at 168.91 81.28 0)
+			(at 162.56 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2537,7 +2560,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 168.91 81.28 0)
+			(at 162.56 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2562,7 +2585,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 127 125.73 0)
+		(at 120.65 125.73 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2571,7 +2594,7 @@
 		(fields_autoplaced yes)
 		(uuid "16f43cb1-c09e-4d41-9fc0-ce57064f6c42")
 		(property "Reference" "#PWR04"
-			(at 127 132.08 0)
+			(at 120.65 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2580,7 +2603,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 127 130.81 0)
+			(at 120.65 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2588,7 +2611,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 127 125.73 0)
+			(at 120.65 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2597,7 +2620,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 127 125.73 0)
+			(at 120.65 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2606,7 +2629,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 127 125.73 0)
+			(at 120.65 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2627,8 +2650,74 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 259.08 68.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1e3ab0d8-1390-463c-8079-5d45e6348eee")
+		(property "Reference" "#PWR09"
+			(at 259.08 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 259.08 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 259.08 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 259.08 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 259.08 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ed9b06e2-d7fa-4653-8cd5-a900908f12d7")
+		)
+		(instances
+			(project "sikkoku_pcb"
+				(path "/8503e41d-c9d7-4bc2-8121-8150ee9b0478"
+					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "BrownSugar_KBD:SW_PUSH")
-		(at 140.97 118.11 90)
+		(at 134.62 118.11 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2637,7 +2726,7 @@
 		(fields_autoplaced yes)
 		(uuid "2c5ec5b7-764b-4cad-868c-c737ab77caed")
 		(property "Reference" "SW11"
-			(at 142.24 116.8399 90)
+			(at 135.89 116.8399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2646,7 +2735,7 @@
 			)
 		)
 		(property "Value" "SW_PUSH"
-			(at 142.24 119.3799 90)
+			(at 135.89 119.3799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2654,16 +2743,17 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 140.97 118.11 0)
+		(property "Footprint" "BrownSugar_KBD:Kailh_Choc_V1_Hotswap_via"
+			(at 134.62 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
-			(at 140.97 118.11 0)
+			(at 134.62 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2671,7 +2761,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 140.97 118.11 0)
+			(at 134.62 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2696,7 +2786,7 @@
 	)
 	(symbol
 		(lib_id "BrownSugar_KBD:SW_PUSH")
-		(at 154.94 81.28 90)
+		(at 148.59 81.28 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2705,7 +2795,7 @@
 		(fields_autoplaced yes)
 		(uuid "2fe8719c-4774-4dc2-a670-23927e097394")
 		(property "Reference" "SW8"
-			(at 156.21 80.0099 90)
+			(at 149.86 80.0099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2714,7 +2804,7 @@
 			)
 		)
 		(property "Value" "SW_PUSH"
-			(at 156.21 82.5499 90)
+			(at 149.86 82.5499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2722,16 +2812,17 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 154.94 81.28 0)
+		(property "Footprint" "BrownSugar_KBD:Kailh_Choc_V1_Hotswap_via"
+			(at 148.59 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 81.28 0)
+			(at 148.59 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2739,7 +2830,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 154.94 81.28 0)
+			(at 148.59 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2764,7 +2855,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 237.49 105.41 0)
+		(at 231.14 105.41 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2773,7 +2864,7 @@
 		(fields_autoplaced yes)
 		(uuid "40a472ae-30ef-4c27-a5f0-9fde312e370b")
 		(property "Reference" "#PWR01"
-			(at 237.49 111.76 0)
+			(at 231.14 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2782,7 +2873,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 237.49 110.49 0)
+			(at 231.14 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2790,7 +2881,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 237.49 105.41 0)
+			(at 231.14 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2799,7 +2890,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 237.49 105.41 0)
+			(at 231.14 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2808,7 +2899,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 237.49 105.41 0)
+			(at 231.14 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2830,7 +2921,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 35.56 88.9 0)
+		(at 29.21 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2839,7 +2930,7 @@
 		(fields_autoplaced yes)
 		(uuid "48f54bfe-7746-4559-a247-47150464e184")
 		(property "Reference" "#PWR02"
-			(at 35.56 95.25 0)
+			(at 29.21 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2848,7 +2939,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 35.56 93.98 0)
+			(at 29.21 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2856,7 +2947,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 35.56 88.9 0)
+			(at 29.21 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2865,7 +2956,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 35.56 88.9 0)
+			(at 29.21 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2874,7 +2965,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 35.56 88.9 0)
+			(at 29.21 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2896,7 +2987,7 @@
 	)
 	(symbol
 		(lib_id "BrownSugar_KBD:SW_PUSH")
-		(at 77.47 81.28 90)
+		(at 71.12 81.28 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2905,7 +2996,7 @@
 		(fields_autoplaced yes)
 		(uuid "4f75d7b1-03d8-4240-9051-03fc05b53943")
 		(property "Reference" "SW4"
-			(at 78.74 80.0099 90)
+			(at 72.39 80.0099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2914,7 +3005,7 @@
 			)
 		)
 		(property "Value" "SW_PUSH"
-			(at 78.74 82.5499 90)
+			(at 72.39 82.5499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2922,16 +3013,17 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 77.47 81.28 0)
+		(property "Footprint" "BrownSugar_KBD:Kailh_Choc_V1_Hotswap_via"
+			(at 71.12 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
-			(at 77.47 81.28 0)
+			(at 71.12 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2939,7 +3031,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 77.47 81.28 0)
+			(at 71.12 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2964,7 +3056,7 @@
 	)
 	(symbol
 		(lib_id "BrownSugar_KBD:SW_PUSH")
-		(at 140.97 81.28 90)
+		(at 134.62 81.28 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2973,7 +3065,7 @@
 		(fields_autoplaced yes)
 		(uuid "4f9e2b73-43e2-4ebd-96a6-6f0b60be3135")
 		(property "Reference" "SW7"
-			(at 142.24 80.0099 90)
+			(at 135.89 80.0099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2982,7 +3074,7 @@
 			)
 		)
 		(property "Value" "SW_PUSH"
-			(at 142.24 82.5499 90)
+			(at 135.89 82.5499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2990,16 +3082,17 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 140.97 81.28 0)
+		(property "Footprint" "BrownSugar_KBD:Kailh_Choc_V1_Hotswap_via"
+			(at 134.62 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
-			(at 140.97 81.28 0)
+			(at 134.62 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3007,7 +3100,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 140.97 81.28 0)
+			(at 134.62 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3032,7 +3125,7 @@
 	)
 	(symbol
 		(lib_id "BrownSugar_KBD:SW_PUSH")
-		(at 168.91 38.1 90)
+		(at 162.56 38.1 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3040,8 +3133,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "60da03aa-680d-4d9d-8f09-b2cc0884e056")
-		(property "Reference" "SW15"
-			(at 170.18 36.8299 90)
+		(property "Reference" "SW17"
+			(at 163.83 36.8299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3050,7 +3143,7 @@
 			)
 		)
 		(property "Value" "SW_PUSH"
-			(at 170.18 39.3699 90)
+			(at 163.83 39.3699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3058,16 +3151,17 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 168.91 38.1 0)
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS810"
+			(at 162.56 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
-			(at 168.91 38.1 0)
+			(at 162.56 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3075,7 +3169,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 168.91 38.1 0)
+			(at 162.56 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3092,7 +3186,7 @@
 		(instances
 			(project "sikkoku_pcb"
 				(path "/8503e41d-c9d7-4bc2-8121-8150ee9b0478"
-					(reference "SW15")
+					(reference "SW17")
 					(unit 1)
 				)
 			)
@@ -3100,7 +3194,7 @@
 	)
 	(symbol
 		(lib_id "BrownSugar_KBD:SW_PUSH")
-		(at 35.56 81.28 90)
+		(at 29.21 81.28 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3109,7 +3203,7 @@
 		(fields_autoplaced yes)
 		(uuid "6ba32b96-8f90-4ff7-af3b-594a7af4c705")
 		(property "Reference" "SW1"
-			(at 36.83 80.0099 90)
+			(at 30.48 80.0099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3118,7 +3212,7 @@
 			)
 		)
 		(property "Value" "SW_PUSH"
-			(at 36.83 82.5499 90)
+			(at 30.48 82.5499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3126,16 +3220,17 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 35.56 81.28 0)
+		(property "Footprint" "BrownSugar_KBD:Kailh_Choc_V1_Hotswap_via"
+			(at 29.21 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
-			(at 35.56 81.28 0)
+			(at 29.21 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3143,7 +3238,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 35.56 81.28 0)
+			(at 29.21 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3168,7 +3263,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 189.23 35.56 0)
+		(at 182.88 35.56 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3177,7 +3272,7 @@
 		(fields_autoplaced yes)
 		(uuid "70758049-e31e-432b-ad2d-593a712c4d68")
 		(property "Reference" "#PWR07"
-			(at 189.23 41.91 0)
+			(at 182.88 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3186,7 +3281,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 189.23 40.64 0)
+			(at 182.88 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3194,7 +3289,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 189.23 35.56 0)
+			(at 182.88 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3203,7 +3298,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 189.23 35.56 0)
+			(at 182.88 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3212,7 +3307,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 189.23 35.56 0)
+			(at 182.88 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3234,7 +3329,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 168.91 45.72 0)
+		(at 162.56 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3243,7 +3338,7 @@
 		(fields_autoplaced yes)
 		(uuid "79d6b981-bd01-47dd-9f3a-81c6812dde44")
 		(property "Reference" "#PWR08"
-			(at 168.91 52.07 0)
+			(at 162.56 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3252,7 +3347,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 168.91 50.8 0)
+			(at 162.56 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3260,7 +3355,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 168.91 45.72 0)
+			(at 162.56 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3269,7 +3364,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 168.91 45.72 0)
+			(at 162.56 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3278,7 +3373,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 168.91 45.72 0)
+			(at 162.56 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3300,7 +3395,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 127 152.4 0)
+		(at 120.65 152.4 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3309,7 +3404,7 @@
 		(fields_autoplaced yes)
 		(uuid "7f2cd26e-0559-47eb-9c5c-1a4f5a64bee2")
 		(property "Reference" "#PWR05"
-			(at 127 158.75 0)
+			(at 120.65 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3318,7 +3413,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 127 157.48 0)
+			(at 120.65 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3326,7 +3421,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 127 152.4 0)
+			(at 120.65 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3335,7 +3430,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 127 152.4 0)
+			(at 120.65 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3344,7 +3439,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 127 152.4 0)
+			(at 120.65 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3366,7 +3461,7 @@
 	)
 	(symbol
 		(lib_id "BrownSugar_KBD:SW_PUSH")
-		(at 127 81.28 90)
+		(at 120.65 81.28 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3375,7 +3470,7 @@
 		(fields_autoplaced yes)
 		(uuid "7fff4414-4fd0-4c96-991a-c8bd69723e22")
 		(property "Reference" "SW6"
-			(at 128.27 80.0099 90)
+			(at 121.92 80.0099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3384,7 +3479,7 @@
 			)
 		)
 		(property "Value" "SW_PUSH"
-			(at 128.27 82.5499 90)
+			(at 121.92 82.5499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3392,16 +3487,17 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 127 81.28 0)
+		(property "Footprint" "BrownSugar_KBD:Kailh_Choc_V1_Hotswap_via"
+			(at 120.65 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
-			(at 127 81.28 0)
+			(at 120.65 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3409,7 +3505,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 127 81.28 0)
+			(at 120.65 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3434,7 +3530,7 @@
 	)
 	(symbol
 		(lib_id "BrownSugar_KBD:SW_PUSH")
-		(at 91.44 81.28 90)
+		(at 85.09 81.28 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3443,7 +3539,7 @@
 		(fields_autoplaced yes)
 		(uuid "934b951e-2c56-4d92-a42b-691e8f3577b3")
 		(property "Reference" "SW5"
-			(at 92.71 80.0099 90)
+			(at 86.36 80.0099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3452,7 +3548,7 @@
 			)
 		)
 		(property "Value" "SW_PUSH"
-			(at 92.71 82.5499 90)
+			(at 86.36 82.5499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3460,16 +3556,17 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 91.44 81.28 0)
+		(property "Footprint" "BrownSugar_KBD:Kailh_Choc_V1_Hotswap_via"
+			(at 85.09 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
-			(at 91.44 81.28 0)
+			(at 85.09 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3477,7 +3574,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 91.44 81.28 0)
+			(at 85.09 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3502,7 +3599,7 @@
 	)
 	(symbol
 		(lib_id "BrownSugar_KBD:SW_PUSH")
-		(at 127 118.11 90)
+		(at 120.65 118.11 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3511,7 +3608,7 @@
 		(fields_autoplaced yes)
 		(uuid "a2cef293-a934-4ad2-8cb0-4bebbd3b037c")
 		(property "Reference" "SW10"
-			(at 128.27 116.8399 90)
+			(at 121.92 116.8399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3520,7 +3617,7 @@
 			)
 		)
 		(property "Value" "SW_PUSH"
-			(at 128.27 119.3799 90)
+			(at 121.92 119.3799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3528,16 +3625,17 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 127 118.11 0)
+		(property "Footprint" "BrownSugar_KBD:Kailh_Choc_V1_Hotswap_via"
+			(at 120.65 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
-			(at 127 118.11 0)
+			(at 120.65 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3545,7 +3643,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 127 118.11 0)
+			(at 120.65 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3570,7 +3668,7 @@
 	)
 	(symbol
 		(lib_id "BrownSugar_KBD:SW_PUSH")
-		(at 168.91 118.11 90)
+		(at 162.56 118.11 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3579,7 +3677,7 @@
 		(fields_autoplaced yes)
 		(uuid "ac50e120-5f32-4e33-b146-3eab336e30d7")
 		(property "Reference" "SW13"
-			(at 170.18 116.8399 90)
+			(at 163.83 116.8399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3588,7 +3686,7 @@
 			)
 		)
 		(property "Value" "SW_PUSH"
-			(at 170.18 119.3799 90)
+			(at 163.83 119.3799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3596,16 +3694,17 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 168.91 118.11 0)
+		(property "Footprint" "BrownSugar_KBD:Kailh_Choc_V1_Hotswap_via"
+			(at 162.56 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
-			(at 168.91 118.11 0)
+			(at 162.56 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3613,7 +3712,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 168.91 118.11 0)
+			(at 162.56 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3638,16 +3737,16 @@
 	)
 	(symbol
 		(lib_id "BrownSugar_KBD:SW_PUSH")
-		(at 63.5 81.28 90)
+		(at 273.05 60.96 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "c4c8ef58-375b-4bbf-8ed3-2754785b2b0b")
-		(property "Reference" "SW3"
-			(at 64.77 80.0099 90)
+		(uuid "c4b3b336-7e70-4a9c-9431-262f9c18e1bc")
+		(property "Reference" "SW16"
+			(at 274.32 59.6899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3656,7 +3755,7 @@
 			)
 		)
 		(property "Value" "SW_PUSH"
-			(at 64.77 82.5499 90)
+			(at 274.32 62.2299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3664,16 +3763,17 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 63.5 81.28 0)
+		(property "Footprint" "BrownSugar_KBD:Kailh_Choc_V1_Hotswap_via"
+			(at 273.05 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
-			(at 63.5 81.28 0)
+			(at 273.05 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3681,7 +3781,76 @@
 			)
 		)
 		(property "Description" ""
-			(at 63.5 81.28 0)
+			(at 273.05 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "20ff385e-df00-4a78-8cbc-776cf0cc7e32")
+		)
+		(pin "1"
+			(uuid "46cf103b-9a6b-4e1a-83ab-495e08f56511")
+		)
+		(instances
+			(project "sikkoku_pcb"
+				(path "/8503e41d-c9d7-4bc2-8121-8150ee9b0478"
+					(reference "SW16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "BrownSugar_KBD:SW_PUSH")
+		(at 57.15 81.28 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c4c8ef58-375b-4bbf-8ed3-2754785b2b0b")
+		(property "Reference" "SW3"
+			(at 58.42 80.0099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "SW_PUSH"
+			(at 58.42 82.5499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "BrownSugar_KBD:Kailh_Choc_V1_Hotswap_via"
+			(at 57.15 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 57.15 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 57.15 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3705,8 +3874,74 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 273.05 68.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c4ef33de-d369-44e7-bc27-327363236c2b")
+		(property "Reference" "#PWR010"
+			(at 273.05 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 273.05 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 273.05 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 273.05 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 273.05 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5657e960-183f-4015-8cbf-c1dccbfa8f09")
+		)
+		(instances
+			(project "sikkoku_pcb"
+				(path "/8503e41d-c9d7-4bc2-8121-8150ee9b0478"
+					(reference "#PWR010")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "BrownSugar_KBD:SW_PUSH")
-		(at 154.94 118.11 90)
+		(at 148.59 118.11 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3715,7 +3950,7 @@
 		(fields_autoplaced yes)
 		(uuid "d51d4e02-f2ac-4f3c-ad1d-bb41a1fd5952")
 		(property "Reference" "SW12"
-			(at 156.21 116.8399 90)
+			(at 149.86 116.8399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3724,7 +3959,7 @@
 			)
 		)
 		(property "Value" "SW_PUSH"
-			(at 156.21 119.3799 90)
+			(at 149.86 119.3799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3732,16 +3967,17 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 154.94 118.11 0)
+		(property "Footprint" "BrownSugar_KBD:Kailh_Choc_V1_Hotswap_via"
+			(at 148.59 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 118.11 0)
+			(at 148.59 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3749,7 +3985,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 154.94 118.11 0)
+			(at 148.59 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3774,7 +4010,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x03")
-		(at 189.23 24.13 90)
+		(at 182.88 24.13 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3783,7 +4019,7 @@
 		(fields_autoplaced yes)
 		(uuid "da8184a9-3ff8-4022-b93b-6293dffbda2f")
 		(property "Reference" "J1"
-			(at 194.31 22.8599 90)
+			(at 187.96 22.8599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3792,7 +4028,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03"
-			(at 194.31 25.3999 90)
+			(at 187.96 25.3999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3800,8 +4036,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 189.23 24.13 0)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+			(at 182.88 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3810,7 +4046,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 189.23 24.13 0)
+			(at 182.88 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3819,7 +4055,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 189.23 24.13 0)
+			(at 182.88 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3847,7 +4083,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 242.57 25.4 0)
+		(at 236.22 25.4 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3856,7 +4092,7 @@
 		(fields_autoplaced yes)
 		(uuid "e366caa4-2d81-402f-8730-4c807dd573ba")
 		(property "Reference" "#PWR06"
-			(at 242.57 29.21 0)
+			(at 236.22 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3865,7 +4101,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 242.57 20.32 0)
+			(at 236.22 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3873,7 +4109,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 242.57 25.4 0)
+			(at 236.22 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3882,7 +4118,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 242.57 25.4 0)
+			(at 236.22 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3891,7 +4127,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 242.57 25.4 0)
+			(at 236.22 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3913,7 +4149,7 @@
 	)
 	(symbol
 		(lib_id "BrownSugar_KBD:SW_PUSH")
-		(at 49.53 81.28 90)
+		(at 43.18 81.28 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3922,7 +4158,7 @@
 		(fields_autoplaced yes)
 		(uuid "e6c09cbc-fa9a-4595-9566-8f3fe6da778b")
 		(property "Reference" "SW2"
-			(at 50.8 80.0099 90)
+			(at 44.45 80.0099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3931,7 +4167,7 @@
 			)
 		)
 		(property "Value" "SW_PUSH"
-			(at 50.8 82.5499 90)
+			(at 44.45 82.5499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3939,16 +4175,17 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 49.53 81.28 0)
+		(property "Footprint" "BrownSugar_KBD:Kailh_Choc_V1_Hotswap_via"
+			(at 43.18 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
-			(at 49.53 81.28 0)
+			(at 43.18 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3956,7 +4193,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 49.53 81.28 0)
+			(at 43.18 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3981,7 +4218,7 @@
 	)
 	(symbol
 		(lib_id "BrownSugar_KBD:SW_PUSH")
-		(at 127 144.78 90)
+		(at 120.65 144.78 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3990,7 +4227,7 @@
 		(fields_autoplaced yes)
 		(uuid "f6702d40-4fa4-4ae9-86ae-9585f962a463")
 		(property "Reference" "SW14"
-			(at 128.27 143.5099 90)
+			(at 121.92 143.5099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3999,7 +4236,7 @@
 			)
 		)
 		(property "Value" "SW_PUSH"
-			(at 128.27 146.0499 90)
+			(at 121.92 146.0499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4007,16 +4244,17 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 127 144.78 0)
+		(property "Footprint" "BrownSugar_KBD:Kailh_Choc_V1_Hotswap_via"
+			(at 120.65 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
-			(at 127 144.78 0)
+			(at 120.65 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4024,7 +4262,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 127 144.78 0)
+			(at 120.65 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4048,34 +4286,35 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 127 88.9 0)
+		(lib_id "BrownSugar_KBD:SW_PUSH")
+		(at 259.08 60.96 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "f7e17e62-ff1d-4055-a46f-d4be33c74a5f")
-		(property "Reference" "#PWR03"
-			(at 127 95.25 0)
+		(uuid "f71ecda7-4428-4ad3-9c76-b7f91c8d653b")
+		(property "Reference" "SW15"
+			(at 260.35 59.6899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
+				(justify right)
 			)
 		)
-		(property "Value" "GND"
-			(at 127 93.98 0)
+		(property "Value" "SW_PUSH"
+			(at 260.35 62.2299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 127 88.9 0)
+		(property "Footprint" "BrownSugar_KBD:Kailh_Choc_V1_Hotswap_via"
+			(at 259.08 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4084,7 +4323,75 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 127 88.9 0)
+			(at 259.08 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 259.08 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "1edb0b45-6bd5-4781-9080-31f8b22bc583")
+		)
+		(pin "1"
+			(uuid "6a28ef89-1373-4e09-9bfe-5f0a24e70336")
+		)
+		(instances
+			(project "sikkoku_pcb"
+				(path "/8503e41d-c9d7-4bc2-8121-8150ee9b0478"
+					(reference "SW15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 120.65 88.9 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f7e17e62-ff1d-4055-a46f-d4be33c74a5f")
+		(property "Reference" "#PWR03"
+			(at 120.65 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 120.65 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 120.65 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 120.65 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4093,7 +4400,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 127 88.9 0)
+			(at 120.65 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
