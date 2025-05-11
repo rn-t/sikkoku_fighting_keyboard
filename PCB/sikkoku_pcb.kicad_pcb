@@ -18684,6 +18684,18 @@
 		(layer "Edge.Cuts")
 		(uuid "d89d371b-c7b1-4a2a-a3a9-be4620764cb5")
 	)
+	(gr_text "sikkoku_fighting_keyboard prototype\n\nHitomosi"
+		(at 215.9 147.32 0)
+		(layer "F.SilkS")
+		(uuid "ade12139-1ffa-4f1b-8733-3b89e0499167")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.25)
+			)
+			(justify left bottom)
+		)
+	)
 	(dimension
 		(type orthogonal)
 		(layer "Cmts.User")
@@ -18714,6 +18726,44 @@
 			(at 29.147409 100.45 0)
 			(layer "Cmts.User")
 			(uuid "0ae28b3e-c82d-4193-82cd-29af955723b3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "Cmts.User")
+		(uuid "1baea988-f562-4a23-915d-4fdc96b7b80a")
+		(pts
+			(xy 140 155) (xy 0 156.21)
+		)
+		(height 13.91)
+		(orientation 0)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "140"
+			(at 70 167.76 0)
+			(layer "Cmts.User")
+			(uuid "1baea988-f562-4a23-915d-4fdc96b7b80a")
 			(effects
 				(font
 					(size 1 1)
@@ -18942,6 +18992,44 @@
 			(at 250.852591 79.85 0)
 			(layer "Cmts.User")
 			(uuid "e1a46280-f2fc-4308-a30d-5f8e6d190d93")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "Cmts.User")
+		(uuid "e4f7ea12-afa8-4750-88f9-d1e97784fee0")
+		(pts
+			(xy 140 155) (xy 280 155)
+		)
+		(height 13.91)
+		(orientation 0)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "140"
+			(at 210 167.76 0)
+			(layer "Cmts.User")
+			(uuid "e4f7ea12-afa8-4750-88f9-d1e97784fee0")
 			(effects
 				(font
 					(size 1 1)
@@ -20948,7 +21036,7 @@
 			(pts
 				(xy 22.86 24.13) (xy 43.18 24.13) (xy 43.18 27.94) (xy 44.45 29.21) (xy 44.45 31.75) (xy 43.18 33.02)
 				(xy 43.18 36.83) (xy 12.7 36.83) (xy 12.7 33.02) (xy 11.43 31.75) (xy 6.985 31.75) (xy 2.54 31.75)
-				(xy 2.54 24.13) (xy 8.89 24.13) (xy 8.89 24.13) (xy 16.51 31.75) (xy 19.05 31.75) (xy 22.86 27.94)
+				(xy 2.54 24.13) (xy 8.89 24.13) (xy 16.51 31.75) (xy 19.05 31.75) (xy 22.86 27.94)
 			)
 		)
 		(filled_polygon
