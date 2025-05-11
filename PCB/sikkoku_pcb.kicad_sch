@@ -1592,61 +1592,61 @@
 		)
 	)
 	(junction
-		(at 29.21 88.9)
+		(at 29.21 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "47400e00-b676-42cb-b6c1-5be19c38867b")
 	)
 	(junction
-		(at 120.65 125.73)
+		(at 120.65 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4787f7a0-1dad-4d97-a107-df2296953566")
 	)
 	(junction
-		(at 134.62 125.73)
+		(at 134.62 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6c49bc4c-105a-452d-96fc-0d09983dfd8a")
 	)
 	(junction
-		(at 57.15 88.9)
+		(at 57.15 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9531a2f8-5d63-45ca-a962-608ade69a2ae")
 	)
 	(junction
-		(at 71.12 88.9)
+		(at 71.12 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9734ffd5-65e4-491d-8c90-d8eaeab88e68")
 	)
 	(junction
-		(at 43.18 88.9)
+		(at 43.18 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a8989544-ead1-4c6b-9f18-be1266c30d3e")
 	)
 	(junction
-		(at 120.65 88.9)
+		(at 120.65 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b0044402-e8e6-46ca-af5d-8eb3bdd6633c")
 	)
 	(junction
-		(at 148.59 125.73)
+		(at 148.59 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b0e5c948-3a1b-4a59-bfa6-621c1c877f59")
 	)
 	(junction
-		(at 148.59 88.9)
+		(at 148.59 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bcdbb3e6-ef7c-49cf-9f29-c63c4894183b")
 	)
 	(junction
-		(at 134.62 88.9)
+		(at 134.62 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fd13caeb-cf2b-4387-9e67-4c5d2ad29520")
@@ -1713,7 +1713,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 88.9) (xy 148.59 88.9)
+			(xy 134.62 102.87) (xy 148.59 102.87)
 		)
 		(stroke
 			(width 0)
@@ -1723,7 +1723,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 73.66) (xy 57.15 58.42)
+			(xy 57.15 76.2) (xy 57.15 60.96)
 		)
 		(stroke
 			(width 0)
@@ -1743,7 +1743,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 105.41) (xy 182.88 83.82)
+			(xy 182.88 76.2) (xy 182.88 119.38)
 		)
 		(stroke
 			(width 0)
@@ -1753,7 +1753,7 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 73.66) (xy 43.18 55.88)
+			(xy 43.18 76.2) (xy 43.18 58.42)
 		)
 		(stroke
 			(width 0)
@@ -1763,17 +1763,7 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 55.88) (xy 208.28 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "25a2eb6d-4664-4a9a-b0ce-81b5a6bcc437")
-	)
-	(wire
-		(pts
-			(xy 120.65 133.35) (xy 120.65 137.16)
+			(xy 120.65 147.32) (xy 120.65 151.13)
 		)
 		(stroke
 			(width 0)
@@ -1783,7 +1773,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 73.66) (xy 71.12 60.96)
+			(xy 71.12 76.2) (xy 71.12 63.5)
 		)
 		(stroke
 			(width 0)
@@ -1793,7 +1783,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 71.12) (xy 148.59 73.66)
+			(xy 148.59 83.82) (xy 148.59 87.63)
 		)
 		(stroke
 			(width 0)
@@ -1803,7 +1793,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 110.49) (xy 134.62 100.33)
+			(xy 134.62 124.46) (xy 134.62 114.3)
 		)
 		(stroke
 			(width 0)
@@ -1813,17 +1803,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 60.96) (xy 208.28 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3a2af9ed-a2ed-4710-96f5-bd241f84e279")
-	)
-	(wire
-		(pts
-			(xy 208.28 66.04) (xy 120.65 66.04)
+			(xy 208.28 66.04) (xy 189.23 66.04)
 		)
 		(stroke
 			(width 0)
@@ -1833,33 +1813,13 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 76.2) (xy 175.26 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "40c1eadd-f944-494b-960a-b1767574e062")
-	)
-	(wire
-		(pts
-			(xy 208.28 71.12) (xy 148.59 71.12)
+			(xy 208.28 71.12) (xy 177.8 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "4380a188-53fe-48ab-b446-9d87fe819d5c")
-	)
-	(wire
-		(pts
-			(xy 182.88 83.82) (xy 208.28 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "444f597c-e5d6-4365-9a8f-cbaffed17f0d")
 	)
 	(wire
 		(pts
@@ -1873,6 +1833,16 @@
 	)
 	(wire
 		(pts
+			(xy 180.34 73.66) (xy 180.34 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4af43e99-8a36-47a7-927e-ca77d49757b8")
+	)
+	(wire
+		(pts
 			(xy 273.05 50.8) (xy 273.05 53.34)
 		)
 		(stroke
@@ -1883,7 +1853,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 88.9) (xy 85.09 88.9)
+			(xy 71.12 91.44) (xy 85.09 91.44)
 		)
 		(stroke
 			(width 0)
@@ -1903,6 +1873,16 @@
 	)
 	(wire
 		(pts
+			(xy 71.12 63.5) (xy 208.28 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5362f035-adee-4edb-848e-3dffb2f99866")
+	)
+	(wire
+		(pts
 			(xy 175.26 43.18) (xy 175.26 30.48)
 		)
 		(stroke
@@ -1913,17 +1893,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 63.5) (xy 208.28 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5bb3462a-d169-4f6b-a36c-15132ef72367")
-	)
-	(wire
-		(pts
-			(xy 57.15 88.9) (xy 71.12 88.9)
+			(xy 57.15 91.44) (xy 71.12 91.44)
 		)
 		(stroke
 			(width 0)
@@ -1943,7 +1913,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 66.04) (xy 120.65 73.66)
+			(xy 120.65 78.74) (xy 120.65 87.63)
 		)
 		(stroke
 			(width 0)
@@ -1953,7 +1923,7 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 88.9) (xy 57.15 88.9)
+			(xy 43.18 91.44) (xy 57.15 91.44)
 		)
 		(stroke
 			(width 0)
@@ -1973,7 +1943,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 68.58) (xy 134.62 68.58)
+			(xy 208.28 68.58) (xy 175.26 68.58)
 		)
 		(stroke
 			(width 0)
@@ -1983,7 +1953,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 125.73) (xy 148.59 125.73)
+			(xy 134.62 139.7) (xy 148.59 139.7)
 		)
 		(stroke
 			(width 0)
@@ -1993,17 +1963,17 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 86.36) (xy 189.23 86.36)
+			(xy 148.59 83.82) (xy 208.28 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "76047bdf-a652-4dfe-bf37-8b3d5c528455")
+		(uuid "78b590c9-85a4-46ed-9585-0bb35de5347e")
 	)
 	(wire
 		(pts
-			(xy 148.59 102.87) (xy 180.34 102.87)
+			(xy 148.59 116.84) (xy 180.34 116.84)
 		)
 		(stroke
 			(width 0)
@@ -2013,7 +1983,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 133.35) (xy 120.65 133.35)
+			(xy 189.23 147.32) (xy 120.65 147.32)
 		)
 		(stroke
 			(width 0)
@@ -2033,6 +2003,16 @@
 	)
 	(wire
 		(pts
+			(xy 177.8 71.12) (xy 177.8 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ddefbd6-3528-42fa-9768-4fd9df9fa7ef")
+	)
+	(wire
+		(pts
 			(xy 185.42 43.18) (xy 175.26 43.18)
 		)
 		(stroke
@@ -2043,7 +2023,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 88.9) (xy 134.62 88.9)
+			(xy 120.65 102.87) (xy 134.62 102.87)
 		)
 		(stroke
 			(width 0)
@@ -2053,23 +2033,33 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 78.74) (xy 208.28 78.74)
+			(xy 134.62 81.28) (xy 208.28 81.28)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "928969fb-e0c0-4fcf-915d-5ce6efa7f2ec")
+		(uuid "9acd4a8c-bc79-4c2a-8db0-1c19b261ecb4")
 	)
 	(wire
 		(pts
-			(xy 180.34 102.87) (xy 180.34 81.28)
+			(xy 29.21 55.88) (xy 208.28 55.88)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "94d2c231-3bed-4abb-afda-dcd83c66eb92")
+		(uuid "9b3c715d-442d-4a12-a451-98ad88e7ac1d")
+	)
+	(wire
+		(pts
+			(xy 43.18 58.42) (xy 208.28 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9cb9eb73-5888-4dd5-97f9-219a5ebb8ba9")
 	)
 	(wire
 		(pts
@@ -2083,7 +2073,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 110.49) (xy 162.56 105.41)
+			(xy 162.56 124.46) (xy 162.56 119.38)
 		)
 		(stroke
 			(width 0)
@@ -2093,7 +2083,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 125.73) (xy 134.62 125.73)
+			(xy 120.65 139.7) (xy 134.62 139.7)
 		)
 		(stroke
 			(width 0)
@@ -2103,7 +2093,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 76.2) (xy 175.26 76.2)
+			(xy 208.28 76.2) (xy 182.88 76.2)
 		)
 		(stroke
 			(width 0)
@@ -2113,7 +2103,17 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 88.9) (xy 43.18 88.9)
+			(xy 162.56 87.63) (xy 162.56 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5b4474a-7da1-40e8-a935-3f9e9ff694e6")
+	)
+	(wire
+		(pts
+			(xy 29.21 91.44) (xy 43.18 91.44)
 		)
 		(stroke
 			(width 0)
@@ -2123,17 +2123,27 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 53.34) (xy 208.28 53.34)
+			(xy 57.15 60.96) (xy 208.28 60.96)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "bea8c445-8743-4fa9-b978-5bd4d3d7fa52")
+		(uuid "be09dd93-f18f-4ce7-a0f1-5802a203ae80")
 	)
 	(wire
 		(pts
-			(xy 85.09 73.66) (xy 85.09 63.5)
+			(xy 85.09 53.34) (xy 208.28 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3c5e490-d32b-4a57-b2e4-874301ca8cfe")
+	)
+	(wire
+		(pts
+			(xy 85.09 53.34) (xy 85.09 76.2)
 		)
 		(stroke
 			(width 0)
@@ -2143,7 +2153,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 110.49) (xy 148.59 102.87)
+			(xy 148.59 124.46) (xy 148.59 116.84)
 		)
 		(stroke
 			(width 0)
@@ -2153,7 +2163,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 73.66) (xy 162.56 73.66)
+			(xy 208.28 73.66) (xy 180.34 73.66)
 		)
 		(stroke
 			(width 0)
@@ -2173,7 +2183,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 100.33) (xy 177.8 100.33)
+			(xy 134.62 114.3) (xy 177.8 114.3)
 		)
 		(stroke
 			(width 0)
@@ -2183,7 +2193,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 88.9) (xy 162.56 88.9)
+			(xy 148.59 102.87) (xy 162.56 102.87)
 		)
 		(stroke
 			(width 0)
@@ -2193,7 +2203,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 73.66) (xy 29.21 53.34)
+			(xy 29.21 76.2) (xy 29.21 55.88)
 		)
 		(stroke
 			(width 0)
@@ -2213,13 +2223,23 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 86.36) (xy 189.23 133.35)
+			(xy 189.23 66.04) (xy 189.23 147.32)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "e21570e6-d1b3-4fa1-aaea-f4e8d2b398e9")
+	)
+	(wire
+		(pts
+			(xy 162.56 86.36) (xy 208.28 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e2ebb62b-946f-4434-b025-ab80fe6ae6a0")
 	)
 	(wire
 		(pts
@@ -2233,7 +2253,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 97.79) (xy 120.65 110.49)
+			(xy 120.65 111.76) (xy 120.65 124.46)
 		)
 		(stroke
 			(width 0)
@@ -2243,7 +2263,17 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 97.79) (xy 120.65 97.79)
+			(xy 120.65 78.74) (xy 208.28 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee12423b-d178-470b-9f29-cd0d7c3c722a")
+	)
+	(wire
+		(pts
+			(xy 175.26 111.76) (xy 120.65 111.76)
 		)
 		(stroke
 			(width 0)
@@ -2253,7 +2283,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 105.41) (xy 182.88 105.41)
+			(xy 162.56 119.38) (xy 182.88 119.38)
 		)
 		(stroke
 			(width 0)
@@ -2263,23 +2293,23 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 58.42) (xy 208.28 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f66c40fa-15d2-45cb-8266-83ab163a33ca")
-	)
-	(wire
-		(pts
-			(xy 134.62 68.58) (xy 134.62 73.66)
+			(xy 134.62 81.28) (xy 134.62 87.63)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "f7223c56-0bb3-4893-9f3a-720962e25c44")
+	)
+	(wire
+		(pts
+			(xy 175.26 68.58) (xy 175.26 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f773a4a2-65fa-4a8c-a31f-6ddc5124b4ce")
 	)
 	(wire
 		(pts
@@ -2293,27 +2323,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 81.28) (xy 208.28 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fa3d84f8-d62f-4ad9-ae34-b370687796a3")
-	)
-	(wire
-		(pts
-			(xy 177.8 100.33) (xy 177.8 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fb48dba1-dc0f-41d2-849c-6cb5c91d8d81")
-	)
-	(wire
-		(pts
-			(xy 148.59 125.73) (xy 162.56 125.73)
+			(xy 148.59 139.7) (xy 162.56 139.7)
 		)
 		(stroke
 			(width 0)
@@ -2516,7 +2526,7 @@
 	)
 	(symbol
 		(lib_id "BrownSugar_KBD:SW_PUSH")
-		(at 162.56 81.28 90)
+		(at 162.56 95.25 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2525,7 +2535,7 @@
 		(fields_autoplaced yes)
 		(uuid "15833a5f-23ec-43c6-8012-70e955b83cf0")
 		(property "Reference" "SW9"
-			(at 163.83 80.0099 90)
+			(at 163.83 93.9799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2534,7 +2544,7 @@
 			)
 		)
 		(property "Value" "SW_PUSH"
-			(at 163.83 82.5499 90)
+			(at 163.83 96.5199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2543,7 +2553,7 @@
 			)
 		)
 		(property "Footprint" "BrownSugar_KBD:Kailh_Choc_V1_Hotswap_via"
-			(at 162.56 81.28 0)
+			(at 162.56 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2552,7 +2562,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 162.56 81.28 0)
+			(at 162.56 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2560,7 +2570,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 162.56 81.28 0)
+			(at 162.56 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2585,7 +2595,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 120.65 125.73 0)
+		(at 120.65 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2594,7 +2604,7 @@
 		(fields_autoplaced yes)
 		(uuid "16f43cb1-c09e-4d41-9fc0-ce57064f6c42")
 		(property "Reference" "#PWR04"
-			(at 120.65 132.08 0)
+			(at 120.65 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2603,7 +2613,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 120.65 130.81 0)
+			(at 120.65 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2611,7 +2621,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 120.65 125.73 0)
+			(at 120.65 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2620,7 +2630,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 120.65 125.73 0)
+			(at 120.65 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2629,7 +2639,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 120.65 125.73 0)
+			(at 120.65 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2717,7 +2727,7 @@
 	)
 	(symbol
 		(lib_id "BrownSugar_KBD:SW_PUSH")
-		(at 134.62 118.11 90)
+		(at 134.62 132.08 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2726,7 +2736,7 @@
 		(fields_autoplaced yes)
 		(uuid "2c5ec5b7-764b-4cad-868c-c737ab77caed")
 		(property "Reference" "SW11"
-			(at 135.89 116.8399 90)
+			(at 135.89 130.8099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2735,7 +2745,7 @@
 			)
 		)
 		(property "Value" "SW_PUSH"
-			(at 135.89 119.3799 90)
+			(at 135.89 133.3499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2744,7 +2754,7 @@
 			)
 		)
 		(property "Footprint" "BrownSugar_KBD:Kailh_Choc_V1_Hotswap_via"
-			(at 134.62 118.11 0)
+			(at 134.62 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2753,7 +2763,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 134.62 118.11 0)
+			(at 134.62 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2761,7 +2771,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 134.62 118.11 0)
+			(at 134.62 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2786,7 +2796,7 @@
 	)
 	(symbol
 		(lib_id "BrownSugar_KBD:SW_PUSH")
-		(at 148.59 81.28 90)
+		(at 148.59 95.25 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2795,7 +2805,7 @@
 		(fields_autoplaced yes)
 		(uuid "2fe8719c-4774-4dc2-a670-23927e097394")
 		(property "Reference" "SW8"
-			(at 149.86 80.0099 90)
+			(at 149.86 93.9799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2804,7 +2814,7 @@
 			)
 		)
 		(property "Value" "SW_PUSH"
-			(at 149.86 82.5499 90)
+			(at 149.86 96.5199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2813,7 +2823,7 @@
 			)
 		)
 		(property "Footprint" "BrownSugar_KBD:Kailh_Choc_V1_Hotswap_via"
-			(at 148.59 81.28 0)
+			(at 148.59 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2822,7 +2832,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 148.59 81.28 0)
+			(at 148.59 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2830,7 +2840,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 148.59 81.28 0)
+			(at 148.59 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2921,7 +2931,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 29.21 88.9 0)
+		(at 29.21 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2930,7 +2940,7 @@
 		(fields_autoplaced yes)
 		(uuid "48f54bfe-7746-4559-a247-47150464e184")
 		(property "Reference" "#PWR02"
-			(at 29.21 95.25 0)
+			(at 29.21 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2939,7 +2949,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 29.21 93.98 0)
+			(at 29.21 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2947,7 +2957,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 29.21 88.9 0)
+			(at 29.21 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2956,7 +2966,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 29.21 88.9 0)
+			(at 29.21 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2965,7 +2975,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 29.21 88.9 0)
+			(at 29.21 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2987,7 +2997,7 @@
 	)
 	(symbol
 		(lib_id "BrownSugar_KBD:SW_PUSH")
-		(at 71.12 81.28 90)
+		(at 71.12 83.82 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2996,15 +3006,6 @@
 		(fields_autoplaced yes)
 		(uuid "4f75d7b1-03d8-4240-9051-03fc05b53943")
 		(property "Reference" "SW4"
-			(at 72.39 80.0099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "SW_PUSH"
 			(at 72.39 82.5499 90)
 			(effects
 				(font
@@ -3013,8 +3014,17 @@
 				(justify right)
 			)
 		)
+		(property "Value" "SW_PUSH"
+			(at 72.39 85.0899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(property "Footprint" "BrownSugar_KBD:Kailh_Choc_V1_Hotswap_via"
-			(at 71.12 81.28 0)
+			(at 71.12 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3023,7 +3033,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 71.12 81.28 0)
+			(at 71.12 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3031,7 +3041,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 71.12 81.28 0)
+			(at 71.12 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3056,7 +3066,7 @@
 	)
 	(symbol
 		(lib_id "BrownSugar_KBD:SW_PUSH")
-		(at 134.62 81.28 90)
+		(at 134.62 95.25 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3065,7 +3075,7 @@
 		(fields_autoplaced yes)
 		(uuid "4f9e2b73-43e2-4ebd-96a6-6f0b60be3135")
 		(property "Reference" "SW7"
-			(at 135.89 80.0099 90)
+			(at 135.89 93.9799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3074,7 +3084,7 @@
 			)
 		)
 		(property "Value" "SW_PUSH"
-			(at 135.89 82.5499 90)
+			(at 135.89 96.5199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3083,7 +3093,7 @@
 			)
 		)
 		(property "Footprint" "BrownSugar_KBD:Kailh_Choc_V1_Hotswap_via"
-			(at 134.62 81.28 0)
+			(at 134.62 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3092,7 +3102,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 134.62 81.28 0)
+			(at 134.62 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3100,7 +3110,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 134.62 81.28 0)
+			(at 134.62 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3194,7 +3204,7 @@
 	)
 	(symbol
 		(lib_id "BrownSugar_KBD:SW_PUSH")
-		(at 29.21 81.28 90)
+		(at 29.21 83.82 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3203,15 +3213,6 @@
 		(fields_autoplaced yes)
 		(uuid "6ba32b96-8f90-4ff7-af3b-594a7af4c705")
 		(property "Reference" "SW1"
-			(at 30.48 80.0099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "SW_PUSH"
 			(at 30.48 82.5499 90)
 			(effects
 				(font
@@ -3220,8 +3221,17 @@
 				(justify right)
 			)
 		)
+		(property "Value" "SW_PUSH"
+			(at 30.48 85.0899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(property "Footprint" "BrownSugar_KBD:Kailh_Choc_V1_Hotswap_via"
-			(at 29.21 81.28 0)
+			(at 29.21 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3230,7 +3240,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 29.21 81.28 0)
+			(at 29.21 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3238,7 +3248,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 29.21 81.28 0)
+			(at 29.21 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3395,7 +3405,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 120.65 152.4 0)
+		(at 120.65 166.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3404,7 +3414,7 @@
 		(fields_autoplaced yes)
 		(uuid "7f2cd26e-0559-47eb-9c5c-1a4f5a64bee2")
 		(property "Reference" "#PWR05"
-			(at 120.65 158.75 0)
+			(at 120.65 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3413,7 +3423,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 120.65 157.48 0)
+			(at 120.65 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3421,7 +3431,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 120.65 152.4 0)
+			(at 120.65 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3430,7 +3440,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 120.65 152.4 0)
+			(at 120.65 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3439,7 +3449,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 120.65 152.4 0)
+			(at 120.65 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3461,7 +3471,7 @@
 	)
 	(symbol
 		(lib_id "BrownSugar_KBD:SW_PUSH")
-		(at 120.65 81.28 90)
+		(at 120.65 95.25 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3470,7 +3480,7 @@
 		(fields_autoplaced yes)
 		(uuid "7fff4414-4fd0-4c96-991a-c8bd69723e22")
 		(property "Reference" "SW6"
-			(at 121.92 80.0099 90)
+			(at 121.92 93.9799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3479,7 +3489,7 @@
 			)
 		)
 		(property "Value" "SW_PUSH"
-			(at 121.92 82.5499 90)
+			(at 121.92 96.5199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3488,7 +3498,7 @@
 			)
 		)
 		(property "Footprint" "BrownSugar_KBD:Kailh_Choc_V1_Hotswap_via"
-			(at 120.65 81.28 0)
+			(at 120.65 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3497,7 +3507,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 120.65 81.28 0)
+			(at 120.65 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3505,7 +3515,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 120.65 81.28 0)
+			(at 120.65 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3530,7 +3540,7 @@
 	)
 	(symbol
 		(lib_id "BrownSugar_KBD:SW_PUSH")
-		(at 85.09 81.28 90)
+		(at 85.09 83.82 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3539,15 +3549,6 @@
 		(fields_autoplaced yes)
 		(uuid "934b951e-2c56-4d92-a42b-691e8f3577b3")
 		(property "Reference" "SW5"
-			(at 86.36 80.0099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "SW_PUSH"
 			(at 86.36 82.5499 90)
 			(effects
 				(font
@@ -3556,8 +3557,17 @@
 				(justify right)
 			)
 		)
+		(property "Value" "SW_PUSH"
+			(at 86.36 85.0899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(property "Footprint" "BrownSugar_KBD:Kailh_Choc_V1_Hotswap_via"
-			(at 85.09 81.28 0)
+			(at 85.09 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3566,7 +3576,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 85.09 81.28 0)
+			(at 85.09 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3574,7 +3584,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 85.09 81.28 0)
+			(at 85.09 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3599,7 +3609,7 @@
 	)
 	(symbol
 		(lib_id "BrownSugar_KBD:SW_PUSH")
-		(at 120.65 118.11 90)
+		(at 120.65 132.08 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3608,7 +3618,7 @@
 		(fields_autoplaced yes)
 		(uuid "a2cef293-a934-4ad2-8cb0-4bebbd3b037c")
 		(property "Reference" "SW10"
-			(at 121.92 116.8399 90)
+			(at 121.92 130.8099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3617,7 +3627,7 @@
 			)
 		)
 		(property "Value" "SW_PUSH"
-			(at 121.92 119.3799 90)
+			(at 121.92 133.3499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3626,7 +3636,7 @@
 			)
 		)
 		(property "Footprint" "BrownSugar_KBD:Kailh_Choc_V1_Hotswap_via"
-			(at 120.65 118.11 0)
+			(at 120.65 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3635,7 +3645,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 120.65 118.11 0)
+			(at 120.65 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3643,7 +3653,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 120.65 118.11 0)
+			(at 120.65 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3668,7 +3678,7 @@
 	)
 	(symbol
 		(lib_id "BrownSugar_KBD:SW_PUSH")
-		(at 162.56 118.11 90)
+		(at 162.56 132.08 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3677,7 +3687,7 @@
 		(fields_autoplaced yes)
 		(uuid "ac50e120-5f32-4e33-b146-3eab336e30d7")
 		(property "Reference" "SW13"
-			(at 163.83 116.8399 90)
+			(at 163.83 130.8099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3686,7 +3696,7 @@
 			)
 		)
 		(property "Value" "SW_PUSH"
-			(at 163.83 119.3799 90)
+			(at 163.83 133.3499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3695,7 +3705,7 @@
 			)
 		)
 		(property "Footprint" "BrownSugar_KBD:Kailh_Choc_V1_Hotswap_via"
-			(at 162.56 118.11 0)
+			(at 162.56 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3704,7 +3714,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 162.56 118.11 0)
+			(at 162.56 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3712,7 +3722,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 162.56 118.11 0)
+			(at 162.56 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3806,7 +3816,7 @@
 	)
 	(symbol
 		(lib_id "BrownSugar_KBD:SW_PUSH")
-		(at 57.15 81.28 90)
+		(at 57.15 83.82 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3815,15 +3825,6 @@
 		(fields_autoplaced yes)
 		(uuid "c4c8ef58-375b-4bbf-8ed3-2754785b2b0b")
 		(property "Reference" "SW3"
-			(at 58.42 80.0099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "SW_PUSH"
 			(at 58.42 82.5499 90)
 			(effects
 				(font
@@ -3832,8 +3833,17 @@
 				(justify right)
 			)
 		)
+		(property "Value" "SW_PUSH"
+			(at 58.42 85.0899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(property "Footprint" "BrownSugar_KBD:Kailh_Choc_V1_Hotswap_via"
-			(at 57.15 81.28 0)
+			(at 57.15 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3842,7 +3852,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 57.15 81.28 0)
+			(at 57.15 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3850,7 +3860,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 57.15 81.28 0)
+			(at 57.15 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3941,7 +3951,7 @@
 	)
 	(symbol
 		(lib_id "BrownSugar_KBD:SW_PUSH")
-		(at 148.59 118.11 90)
+		(at 148.59 132.08 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3950,7 +3960,7 @@
 		(fields_autoplaced yes)
 		(uuid "d51d4e02-f2ac-4f3c-ad1d-bb41a1fd5952")
 		(property "Reference" "SW12"
-			(at 149.86 116.8399 90)
+			(at 149.86 130.8099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3959,7 +3969,7 @@
 			)
 		)
 		(property "Value" "SW_PUSH"
-			(at 149.86 119.3799 90)
+			(at 149.86 133.3499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3968,7 +3978,7 @@
 			)
 		)
 		(property "Footprint" "BrownSugar_KBD:Kailh_Choc_V1_Hotswap_via"
-			(at 148.59 118.11 0)
+			(at 148.59 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3977,7 +3987,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 148.59 118.11 0)
+			(at 148.59 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3985,7 +3995,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 148.59 118.11 0)
+			(at 148.59 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4149,7 +4159,7 @@
 	)
 	(symbol
 		(lib_id "BrownSugar_KBD:SW_PUSH")
-		(at 43.18 81.28 90)
+		(at 43.18 83.82 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4158,15 +4168,6 @@
 		(fields_autoplaced yes)
 		(uuid "e6c09cbc-fa9a-4595-9566-8f3fe6da778b")
 		(property "Reference" "SW2"
-			(at 44.45 80.0099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "SW_PUSH"
 			(at 44.45 82.5499 90)
 			(effects
 				(font
@@ -4175,8 +4176,17 @@
 				(justify right)
 			)
 		)
+		(property "Value" "SW_PUSH"
+			(at 44.45 85.0899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(property "Footprint" "BrownSugar_KBD:Kailh_Choc_V1_Hotswap_via"
-			(at 43.18 81.28 0)
+			(at 43.18 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4185,7 +4195,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 43.18 81.28 0)
+			(at 43.18 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4193,7 +4203,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 43.18 81.28 0)
+			(at 43.18 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4218,7 +4228,7 @@
 	)
 	(symbol
 		(lib_id "BrownSugar_KBD:SW_PUSH")
-		(at 120.65 144.78 90)
+		(at 120.65 158.75 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4227,7 +4237,7 @@
 		(fields_autoplaced yes)
 		(uuid "f6702d40-4fa4-4ae9-86ae-9585f962a463")
 		(property "Reference" "SW14"
-			(at 121.92 143.5099 90)
+			(at 121.92 157.4799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4236,7 +4246,7 @@
 			)
 		)
 		(property "Value" "SW_PUSH"
-			(at 121.92 146.0499 90)
+			(at 121.92 160.0199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4245,7 +4255,7 @@
 			)
 		)
 		(property "Footprint" "BrownSugar_KBD:Kailh_Choc_V1_Hotswap_via"
-			(at 120.65 144.78 0)
+			(at 120.65 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4254,7 +4264,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 120.65 144.78 0)
+			(at 120.65 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4262,7 +4272,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 120.65 144.78 0)
+			(at 120.65 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4356,7 +4366,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 120.65 88.9 0)
+		(at 120.65 102.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4365,7 +4375,7 @@
 		(fields_autoplaced yes)
 		(uuid "f7e17e62-ff1d-4055-a46f-d4be33c74a5f")
 		(property "Reference" "#PWR03"
-			(at 120.65 95.25 0)
+			(at 120.65 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4374,7 +4384,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 120.65 93.98 0)
+			(at 120.65 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4382,7 +4392,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 120.65 88.9 0)
+			(at 120.65 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4391,7 +4401,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 120.65 88.9 0)
+			(at 120.65 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4400,7 +4410,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 120.65 88.9 0)
+			(at 120.65 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
